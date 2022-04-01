@@ -39,51 +39,42 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/davicruzof" target="_blank">Davi Cruz</a>
 </p>
 
 <br>
 
 ## :dart: About ##
 
-Describe your project
+Aplicação verifica se o site está online
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Monitorar Status dos Sites;\
+
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Go](https://www.golang.org/)
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Go](https://golang.org) installed.
 
 ## :checkered_flag: Starting ##
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/monitoring-sites
+$ git clone https://github.com/davicruzof/monitoring-sites
 
 # Access
 $ cd monitoring-sites
 
-# Install dependencies
-$ yarn
-
 # Run the project
-$ yarn start
+$ go run index.go
 
-# The server will initialize in the <http://localhost:3000>
 ```
 
 ## :memo: License ##
@@ -91,7 +82,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/davicruzof" target="_blank">Davi cruz</a>
 
 &#xa0;
 
