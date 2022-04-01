@@ -13,9 +13,9 @@
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/davicruzof/monitoring-sites?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/monitoring-sites?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/davicruzof/monitoring-sites?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/monitoring-sites?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/davicruzof/monitoring-sites?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/monitoring-sites?color=56BEB8" /> -->
 
